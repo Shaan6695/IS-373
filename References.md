@@ -1,6 +1,6 @@
 ### References - 
 
-- 12 factor app :
+- Twelve Factor App :
     - Link - https://12factor.net
     - Image - https://www.bmc.com/blogs/twelve-factor-app/
  
@@ -14,3 +14,10 @@
 
 - Virtualization and Containerization :
     - Image - https://ubuntu.com/blog/containerization-vs-virtualization
+ 
+- WSL2 :
+    - Image - https://medium.com/@inzuael/configure-a-windows-development-environment-with-wsl-02b9bd89cbff 
+    - link - https://learn.microsoft.com/en-us/windows/wsl/install
+
+- Kernel :
+    - Image - https://en.wikipedia.org/wiki/Kernel_%28operating_system%29 
