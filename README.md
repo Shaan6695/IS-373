@@ -27,6 +27,10 @@ Welcome to our Content Mangagement Systems Project!
  
 - ### [The Twelve Factor-App](https://github.com/Shaan6695/IS-373/blob/main/12FactorApp.md)
     - The Twelve-Factor App methodology is a set of best practices for building modern, scalable web applications that are suitable for cloud environments.
+ 
+### Documentation and References
+- Our Documentation and References
+
       
 
 
