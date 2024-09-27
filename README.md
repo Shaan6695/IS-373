@@ -15,6 +15,9 @@ Welcome to our Content Mangagement Systems Project!
  
 - ### [Docker](https://github.com/Shaan6695/IS-373/blob/main/Docker.md)
     - Docker is an open-source platform that enables developers to automate the deployment of applications in lightweight, portable containers.
+
+- ### [Scaling in the cloud]
+    - Vertical and horizontal scaling are two strategies for increasing the capacity of a system, often in the context of servers or databases.
  
 - ### [WSL](https://github.com/Shaan6695/IS-373/blob/main/WSL2.md)
     - a compatibility layer that allows you to run a full Linux kernel directly on Windows 10 and Windows 11.

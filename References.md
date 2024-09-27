@@ -20,4 +20,7 @@
     - link - https://learn.microsoft.com/en-us/windows/wsl/install
 
 - **Kernel :**
-    - Image - https://en.wikipedia.org/wiki/Kernel_%28operating_system%29 
+    - Image - https://en.wikipedia.org/wiki/Kernel_%28operating_system%29
+
+- **Scaling :**
+    - Image - https://www.stormit.cloud/blog/scalability-in-cloud-computing-horizontal-vs-vertical-scaling/
